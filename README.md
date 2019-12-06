@@ -1,0 +1,1 @@
+I have created this script when I was working with creating JSON files for api configurations.
